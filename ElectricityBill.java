@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ElectricityBill {
     public static void main(String[] args) {
         double i, o;
+        //maein nhi maanmta
         double bill = 0;
         while (true) {
             System.out.println("enter unit ");
